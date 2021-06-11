@@ -1,4 +1,4 @@
-package javashowcase;
+package javashowcase.Day12Collections;
 
 import java.util.*;
 
